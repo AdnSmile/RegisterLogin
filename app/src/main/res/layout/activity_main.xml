@@ -10,16 +10,6 @@
     android:layout_margin="16sp"
     >
 
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:textSize="38sp"
-        android:layout_marginTop="20dp"
-
-        />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
